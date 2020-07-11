@@ -37,6 +37,7 @@ I'm 19 years old, technical student. I build **open-source** projects and write 
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/olafsulich/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/olafsulich/)
 
+![Olaf's Github Stats](https://github-readme-stats.vercel.app/api?username=olafsulich&hide=["issues"]&show_icons=true)
 
 
 
