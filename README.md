@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olafsulich/)](https://www.linkedin.com/in/olafsulich/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
 
-Frontend wannabe
+Frontend wannabe :robot:
 
 ## About me 
 
