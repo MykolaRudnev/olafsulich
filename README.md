@@ -1,6 +1,6 @@
 <img align="right" width="250" height="250" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' />
 
-# Hi, I'm Olaf 👋
+<h1> Hi, I'm Olaf <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olafsulich/)](https://www.linkedin.com/in/olafsulich/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
