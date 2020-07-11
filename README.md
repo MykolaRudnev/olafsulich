@@ -36,3 +36,18 @@ I'm 19 years old, technical student. I build **open-source** projects and write 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/olafsulich/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/olafsulich/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/olafsulich/)
+
+## Popular on blog
+
+<p><img width="30" height="30" src='https://www.frontlive.pl/static/695197f9845f4e2da7a3da0e77e784f4/4148e/css.png' /> 
+CSS Houdini - przyszłość CSSa czy niepotrzebna nowość?
+</p>
+
+<p><img width="30" height="30" src='https://www.frontlive.pl/static/5e267e2ee412a23e797106ee564145a0/4148e/js.png' /> 
+JavaScript - ES6 to już przeżytek, nastała era ES10!</p>
+
+
+<p><img width="30" height="30" src='https://www.frontlive.pl/static/835244e9492188eb03cdd9b7c142187d/4148e/typescript.png' /> 
+TypeScript - React, Redux i Styled Components
+</p>
+
