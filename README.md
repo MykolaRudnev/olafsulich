@@ -1,4 +1,4 @@
-<img align="right" width="250" height="420" src='https://i.ibb.co/brd1yx9/olafart3.png" alt="olafart3' />
+<img align="right" width="350" height="520" src='https://i.ibb.co/brd1yx9/olafart3.png" alt="olafart3' />
 
 
 <h1> Hi, I'm Olaf 👋</h1>
