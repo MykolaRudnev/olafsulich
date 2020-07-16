@@ -1,15 +1,11 @@
-<img align="right" width="390" height="560" src='https://i.ibb.co/hC8GrTf/olaff.png" alt="Olaf with computer' />
-
-<h1> Hi, I'm Olaf 👋</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
-
-Frontend wannabe :robot:
+<img src='https://i.ibb.co/47KVx3k/Github-Profile-Olaf.png" alt="Olaf with computer' />
 
 ## About me 
 
 I'm 19 years old, technical student. I build **open-source** projects and write about frontend technologies on **frontlive.pl**. Still learning and discovering new stuff! 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
 
 ## Technologies 
 
