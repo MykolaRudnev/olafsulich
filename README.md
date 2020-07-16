@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/47KVx3k/Github-Profile-Olaf.png" alt="Olaf with computer' />
+<img width="100%" src='https://i.ibb.co/47KVx3k/Github-Profile-Olaf.png" alt="Olaf with computer' />
 
 ## About me 
 
